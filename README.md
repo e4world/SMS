@@ -1,0 +1,2 @@
+# SMS
+monitorowanie parametrów środowiskowych
